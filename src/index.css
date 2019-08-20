@@ -1,0 +1,13 @@
+*{
+    font-size: 100%;
+}
+
+.related-videos:hover{
+    border: 1px solid black;
+    background-color: whitesmoke;
+}
+
+.toggle-history{
+    border: none;
+    background-color: white;
+}
