@@ -7,7 +7,7 @@
     "node": "9.5.0"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.1.1",
     "font-awesome": "^4.7.0",
     "react": "^16.8.6",
